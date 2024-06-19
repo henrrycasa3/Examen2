@@ -1,0 +1,3 @@
+gcc multomp.c -o multomp -fopenmp
+
+./multomp | less
